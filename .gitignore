@@ -21,3 +21,6 @@ pubspec.lock
 packages/cli/test/.test_coverage.dart
 packages/cli/.env
 .env
+
+.flutter-plugins
+.flutter-plugins-dependencies
